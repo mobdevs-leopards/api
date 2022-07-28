@@ -8,5 +8,28 @@
          "title":"Secondary",
          "base_url":"https://www.tcsweb.com"
       }
+   ],
+   "Stories":[
+      {
+         "media_type":1,
+         "duration":10,
+         "url":null,
+         "text":"test image ver 11",
+         "bg_color":"5800FF"
+      },
+      {
+         "media_type":2,
+         "duration":10,
+         "url":null,
+         "text":"test video ver 11",
+         "bg_color":"5800FF"
+      },
+      {
+         "media_type":3,
+         "duration":10,
+         "url":null,
+         "text":"test text ver 11",
+         "bg_color":"5800FF"
+      }
    ]
 }
