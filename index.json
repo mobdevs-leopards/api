@@ -1,3 +1,10 @@
-{
-   "base_url":"https://www.google.com/"
-}
+[
+	{
+		"title": "Primary",
+		"base_url": "https://www.leopardsweb.com"
+	},
+	{
+		"title": "Secondary",
+		"base_url": "https://www.tcsweb.com"
+	}
+]
