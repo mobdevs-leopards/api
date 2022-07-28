@@ -1,10 +1,12 @@
-[
-	{
-		"title": "Primary",
-		"base_url": "https://www.leopardsweb.com"
-	},
-	{
-		"title": "Secondary",
-		"base_url": "https://www.tcsweb.com"
-	}
-]
+{
+   "data":[
+      {
+         "title":"Primary",
+         "base_url":"https://www.leopardsweb.com"
+      },
+      {
+         "title":"Secondary",
+         "base_url":"https://www.tcsweb.com"
+      }
+   ]
+}
