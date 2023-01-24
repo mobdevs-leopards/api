@@ -7,6 +7,9 @@
       "CRM":"https://leopardsweb.com/",
       "OPS-E-LOG":"https://leopardsweb.com/",
       "LEX":"https://leopardsweb.com/",
-      "HUM":"https://leopardsweb.com/"
+      "HUM":"https://leopardsweb.com/",
+             "ESHIP_OPTIONS" : {
+          "is_manual_cn": 0
+       }
    }
 }
