@@ -8,7 +8,7 @@
       "OPS-E-LOG":"https://leopardsweb.com/",
       "LEX":"https://leopardsweb.com/",
       "HUM":"https://leopardsweb.com/",
-             "ESHIP_OPTIONS" : {
+             "urlEshipOptions" : {
           "is_manual_cn": 0
        }
    }
