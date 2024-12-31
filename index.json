@@ -2,7 +2,7 @@
    "Status":200,
    "Data":{
       "LMD":"http://android.leopardscourier.com/",
-      "LMD_NEW":"https://lmdapi.leopardscourier.com/",
+      "LMD_NEW":"https://lmdapi.leopardscourier.com/api",
       "ESHIP":"http://leopardsweb.com/",
       "RMS":"https://leopardsweb.com/",
       "CRM":"https://leopardsweb.com/",
